@@ -22,40 +22,38 @@ The primary objective of this project was to transition AtliQ from its outdated 
 
 1-Finance View : Displays Profit & Loss (P&L) statements for specific customers, products, and countries over any given time period. Allows for the detailed analysis of financial performance, including revenue, expenses, and profitability metrics.
 
-
-
+<p align="center">
+  <img src="images/Finance_View.png" width="95%">
+</p>
 
 
 2- Sales View : Offers a detailed performance analysis based on key metrics such as Net Sales, Gross Margin, and Profitability. Provides a Growth Matrix for assessing sales performance and profitability of individual customers, products, and regions.
 
-
-
+<p align="center">
+  <img src="images/Sales_View.png" width="95%">
+</p>
 
         
 3- Marketing View : Evaluates the performance of products in the market, focusing on metrics like Net Sales and Gross Margin. Visualizes the profitability and growth potential of products through an interactive matrix, helping prioritize marketing efforts.
 
- 
-
-
-
-
+ <p align="center">
+  <img src="images/Marketing_View.png" width="95%">
+</p>
 
 
 4- Supply Chain View : Tracks key metrics such as Forecast Accuracy, Net Error, and Risk Profiles for different segments, categories, and customers. Assists in identifying areas of improvement for supply chain optimization and risk management.
 
-
+<p align="center">
+  <img src="images/Supply_Chain_View.png" width="95%">
+</p>
  
 
 5- Executive View : A high-level, consolidated dashboard that presents key insights across all business areas, providing executives with a comprehensive overview of performance and operational health.
 
-
+<p align="center">
+  <img src="images/Executive_View.png" width="95%">
+</p>
  
-
-
- 
-
-
-
 
 ## Project Implementation
 
